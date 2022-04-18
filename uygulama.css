@@ -1,0 +1,15 @@
+.text-green1 {
+    color: #00AB66
+}
+.text-green2 {
+    color: #005432;
+}
+.text-green3 {
+    color: #01931e;
+}
+/* font-family: "Times New Roman", Times, serif; */
+.font-hand {font-family: 'Pacifico', cursive;}
+
+.osman {
+    list-style-position: inside
+}
